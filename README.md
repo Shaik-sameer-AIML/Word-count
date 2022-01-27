@@ -19,6 +19,8 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 ```python
+## Developed by :Naramala Niharika
+## ref no. :21500912
 num_of_words = 0
 file = open('wordtext.txt')
 wordtext = file.read()
