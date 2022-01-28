@@ -31,7 +31,7 @@ print("Number of words = ",num_of_words)
 
 ### OUTPUT:
 ![output](./!.JPG)
-![output0](./!!JPG)
+![output0](./!!.JPG)
 
 
 ## RESULT:
